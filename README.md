@@ -83,10 +83,10 @@ These results suggest that, on average, the Random Forest model's predictions ar
 
 ## Next Steps
 
-**Feature Enhancement:** Explore additional features (e.g., more granular weather data, economic indicators).
+- **Feature Enhancement:** Explore additional features (e.g., more granular weather data, economic indicators).
 
-**Model Tuning:** Further refine model parameters and consider ensemble methods.
+- **Model Tuning:** Further refine model parameters and consider ensemble methods.
 
-**Real-Time Integration:** Develop a dashboard to integrate real-time data for continuous forecasting.
+- **Real-Time Integration:** Develop a dashboard to integrate real-time data for continuous forecasting.
 
-**Extended Analysis:** Investigate seasonal patterns and external factors that influence demand more deeply.
+- **Extended Analysis:** Investigate seasonal patterns and external factors that influence demand more deeply.
